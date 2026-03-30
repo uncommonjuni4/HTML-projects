@@ -1,0 +1,24 @@
+h4{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: chartreuse;
+    font-style: italic;
+    font-size: larger;
+}
+h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: yellow;
+    font-style: oblique;
+    font-size: larger;
+    text-align: center;
+    text-decoration: underline;
+    background-color: black;
+    border:  2px solid red;
+}
+h6 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-style: italic;
+    color: black;
+    font-size: x-large;
+}
